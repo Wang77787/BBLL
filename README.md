@@ -3,7 +3,7 @@
 ![ic_launcher_tv](https://user-images.githubusercontent.com/4136777/207619332-6f4f2959-32d6-4596-9d8f-a9eff20edd4f.png)
 
 #### 一个第三方哔哩哔哩客户端，仅供学习与交流使用。该应用仅作为个人兴趣开发，应用没有任何破解行为，只是对于B站已有的API进行封装，所有数据来自于B站官方API，本人不对内容负责。应用通过firebase和appcenter收集的数据包括用户设备相关信息，以及崩溃日志，不会收集你的个人信息。
-#### A third-party bilibili client, For learning and communication only. This application is developed as a personal interest. BBLL does not have any cracking behavior, but only encapsulates the existing API of Bilibili. All data comes from the official API of Bilibili. I am not responsible for the content. The data collected by the app through firebase and appcenter includes user device information and crash logs, and your personal information will not be collected.
+#### A third-party bilibili client made for learning and exchanging knowledge only. This application is developed as a personal interest, it only compiles the existing Bilibili API and does not alter it in any capacity. All data comes from the official Bilibili API. I am not responsible for the content it provides. This app collects device information and crash logs through firebase and appcenter and does not collect any other personal information.
 
 🔗[下载链接](https://install.appcenter.ms/users/xiaxiaoao/apps/bbll/distribution_groups/publicgroup)
 🔗[隔壁A站客户端ACAC](https://github.com/xiaye13579/ACAC)
@@ -24,7 +24,7 @@ BBLL是个学习交流应用，不存在收费内容。部分功能需要B站的
 #### 两个apk文件的区别
 release版本只能用于android 5.0以上（包含5.0）的系统。api19是做了android4.4的兼容处理的版本。
 
-## 应用截图 Screenshot
+## 应用截图 Screenshots
 
 ![Screenshot_20230117_101427](https://user-images.githubusercontent.com/4136777/212796202-8e657da6-c3ab-4fdc-8eaa-4d9d3e054811.jpg)
 
